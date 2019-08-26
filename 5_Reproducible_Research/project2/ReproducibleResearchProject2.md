@@ -1,4 +1,4 @@
-Github repo for the Course: [Reproducible Research](https://github.com/mGalarnyk/datasciencecoursera/tree/master/5_Reproducible_Research) </br> Github repo for Rest of Specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
+Github repo for the Course: [Reproducible Research](https://github.com/asmaaabdelhady/-5_Reproducible_Research-project2) </br> Github 
 
 1: Synopsis
 -----------
